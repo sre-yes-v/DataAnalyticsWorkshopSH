@@ -36,12 +36,8 @@ export default function Footer() {
               target="_blank" 
               rel="noreferrer"
               className="text-xs text-indigo-400 hover:text-indigo-300 font-medium inline-flex items-center gap-1"
-              passHref
-              legacyBehavior
             >
-              <a target="_blank" rel="noreferrer" className="text-xs text-indigo-400 hover:text-indigo-300 font-medium inline-flex items-center gap-1">
-                Get Directions <ExternalLink className="w-3 h-3" />
-              </a>
+              Get Directions <ExternalLink className="w-3 h-3" />
             </Link>
           </div>
 
@@ -97,15 +93,11 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-bold mb-6">Connect</h4>
             <div className="flex gap-4 mb-6">
-              <Link href="#" passHref legacyBehavior>
-                <a target="_blank" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all duration-300">
-                  <Facebook className="w-5 h-5" />
-                </a>
+              <Link href="#" target="_blank" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all duration-300">
+                <Facebook className="w-5 h-5" />
               </Link>
-              <Link href="#" passHref legacyBehavior>
-                <a target="_blank" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all duration-300">
-                  <Instagram className="w-5 h-5" />
-                </a>
+              <Link href="#" target="_blank" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all duration-300">
+                <Instagram className="w-5 h-5" />
               </Link>
             </div>
             <Link 
@@ -113,12 +105,8 @@ export default function Footer() {
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block text-sm text-slate-400 hover:text-white transition-colors border-b border-slate-700 pb-1"
-              passHref
-              legacyBehavior
             >
-              <a target="_blank" rel="noopener noreferrer" className="inline-block text-sm text-slate-400 hover:text-white transition-colors border-b border-slate-700 pb-1">
-                Visit Main College Website &rarr;
-              </a>
+              Visit Main College Website &rarr;
             </Link>
           </div>
         </div>
