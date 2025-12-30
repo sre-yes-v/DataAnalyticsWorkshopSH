@@ -15,11 +15,11 @@ export const metadata: Metadata = {
     title: "Data Analytics Workshop | Sacred Heart College",
     description:
       "Join our Data Analytics Workshop at Sacred Heart College from 22-24 January 2025. Learn data analysis, visualization, and machine learning with expert instructors. Enhance your skills with hands-on sessions and real-world projects. Register now!",
-    url: "",
+    url: "https://data-analytics-workshop-sh.vercel.app/",
     siteName: "Data Analytics Workshop",
     images: [
       {
-        url: "/CASA_logo.png",
+        url: "/banner.jpeg",
         width: 1600,
         height: 730,
         alt: "Casa | Dept. of CS ",
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
     title: "Data Analytics Workshop | Sacred Heart College",
     description:
       "Join our Data Analytics Workshop at Sacred Heart College from 22-24 January 2025. Learn data analysis, visualization, and machine learning with expert instructors. Enhance your skills with hands-on sessions and real-world projects. Register now!",
-    images: ["/CASA_logo.png"],
+    images: ["/banner.jpeg"],
   },
   alternates: {
-    canonical: "",
+    canonical: "https://data-analytics-workshop-sh.vercel.app/",
   },
   robots: {
     index: true,
