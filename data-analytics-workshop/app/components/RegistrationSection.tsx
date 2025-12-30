@@ -45,7 +45,7 @@ export default function RegistrationSection() {
         >
           <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-cyan-500 rounded-lg blur opacity-25 group-hover:opacity-75 transition duration-1000 group-hover:duration-200"></div>
           <a
-            href="https://google.com" // REPLACE THIS with your Google Form Link
+            href="/" // REPLACE THIS with your Google Form Link
             target="_blank"
             rel="noopener noreferrer"
             className="relative flex items-center gap-3 px-10 py-5 bg-white rounded-lg leading-none"

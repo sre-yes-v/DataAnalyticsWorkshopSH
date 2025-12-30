@@ -32,7 +32,7 @@ export default function Footer() {
               </p>
             </div>
             <Link 
-              href="https://goo.gl/maps/your-college-link" 
+              href="https://maps.app.goo.gl/Jzq5PtmLS6rfqvgj8" 
               target="_blank" 
               rel="noreferrer"
               className="text-xs text-indigo-400 hover:text-indigo-300 font-medium inline-flex items-center gap-1"
@@ -96,7 +96,7 @@ export default function Footer() {
               <Link href="#" target="_blank" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all duration-300">
                 <Facebook className="w-5 h-5" />
               </Link>
-              <Link href="#" target="_blank" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all duration-300">
+              <Link href="https://www.instagram.com/shc.thevara?igsh=MTB1bXhseWEyYjF5dQ==" target="_blank" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition-all duration-300">
                 <Instagram className="w-5 h-5" />
               </Link>
             </div>
