@@ -14,7 +14,7 @@ import Link from "next/link";
 
 export default function Footer() {
 
-  const shLogo = "/shlogo1.png";
+  const shLogo = "/shlogo2.png";
   return (
     <footer className="bg-slate-950 text-slate-300 py-16 px-6 border-t border-slate-800">
       <div className="max-w-7xl mx-auto">
